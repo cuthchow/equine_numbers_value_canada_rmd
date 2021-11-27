@@ -51,7 +51,7 @@ horse_plot <- ggplot(horse_pop, aes(x = Ref_Date, y = Value)) +
   ggtitle("Historical number of horses per province in Canada") +
   facet_grid(~GEO) +
   scale_y_continuous(labels = scales::comma) +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
 
 horse_plot
 ```
