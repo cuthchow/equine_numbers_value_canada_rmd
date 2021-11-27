@@ -32,9 +32,13 @@ tidyverse (Wickham et al. 2019). The code used to perform the analysis
 and create this report can be found here:
 <https://github.com/ttimbers/equine_numbers_value_canada_rmd>.
 
+There was a cool paper about horses once (Milner and Hewitt 1969).
+
 ## Results
 
 <img src="hist_horse_pop_files/figure-gfm/plot horses-1.png" title="Figure 1. Horse populations for all provinces in Canada between 1940 - 1972." alt="Figure 1. Horse populations for all provinces in Canada between 1940 - 1972." width="100%" />
+Figure 1. Horse populations for all provinces in Canada between 1940 -
+1972. <br>
 
 We can see from the visualisation above that Ontario, Saskatchewan and
 Alberta have had the highest horse populations in Canada. All provinces
@@ -69,6 +73,14 @@ Below we zoom in and look at the province of Alberta:
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-milner1969weight" class="csl-entry">
+
+Milner, Jean, and D Hewitt. 1969. “Weight of Horses: Improved Estimates
+Based on Girth and Length.” *The Canadian Veterinary Journal* 10 (12):
+314.
+
+</div>
 
 <div id="ref-R" class="csl-entry">
 
